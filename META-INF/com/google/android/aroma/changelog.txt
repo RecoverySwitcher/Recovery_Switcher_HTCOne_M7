@@ -1,0 +1,17 @@
+<@center><b>Recovery Switcher 3.0.0</b></@>
+<@center><b>Jul 19 2014</b></@>
+<@center><*>Updated Unofficial TWRP 2.7.1.2 Recovery For AOSP</*></@>
+<@center><*>Updated TWRP Recovery 2.7.1.1 </*></@>
+<@center><*>Updated Philz Recovery 6.48.4</*></@>
+
+<@center><b>Recovery Switcher 2.0.0</b></@>
+<@center><b>May 7 2014</b></@>
+<@center><*>Unofficial TWRP 2.7.0.8 Recovery For AOSP</*></@>
+
+<@center><b>Recovery Switcher 1.0.0</b></@>
+<@center><b>Apr 15 2014</b></@>
+<@center><*>TWRP 2.7.0.8</*></@>
+<@center><*>ClockworkMod Touch 6.0.4.6</*></@>
+<@center><*>ClockworkMod Non Touch 6.0.4.6</*></@>
+<@center><*>PhilZ Touch 6.26.6</*></@>
+<@center><*>MultiROM v19a </*></@>
